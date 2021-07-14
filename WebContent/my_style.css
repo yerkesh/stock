@@ -1,0 +1,103 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+
+.content {
+	display: flex;
+}
+
+.left {
+	flex-grow: 1;
+}
+
+.left_top_sdu {
+	text-align: center;
+	color: #A1A9A9;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.left_line {
+	
+}
+
+
+.login_option {
+	padding-left: 20px;
+	margin-top: 40px;
+	color: #F9460D;
+}
+
+.emp_login {
+	padding-top: 25px;
+}
+
+.right {
+	flex-grow: 7;
+	background-color: #E3DFDD;
+}
+
+.right_top_line {
+	margin-top:40px;
+}
+
+.sdu_img {
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+.right_bottom_line {
+	margin-bottom: 0px;
+	margin-top: 250px;
+}
+
+.cust_login {
+	color: #A1A9A9;
+}
+
+.employee_login_form {
+	width: 30%;
+	margin-top:40px;
+	margin-left: 30px;
+	background-color: white;
+	padding-left: 15px;
+	padding-top:30px;
+	padding-bottom:20px;
+}
+
+.create_accounts {
+	color: #F9460D;
+}
+
+.deposit_money {
+	color: #A1A9A9;
+	padding-top:20px;
+}
+
+.create_fund {
+	color: #A1A9A9;
+	padding-top:20px;
+}
+
+.customer_photo_email {
+	margin-left: 100px;
+}
+
+.my_funds {
+	margin-left:100px;
+}

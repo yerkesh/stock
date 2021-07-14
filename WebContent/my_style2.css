@@ -1,0 +1,115 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+	display: flex;
+}
+
+.left {
+	flex-grow: 1;
+}
+
+.left_top_sdu {
+	text-align: center;
+	color: #A1A9A9;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+
+
+.login_option {
+	padding-left: 20px;
+	margin-top: 40px;
+	color: #F9460D;
+}
+
+.emp_login {
+	padding-top: 25px;
+}
+
+.right {
+	flex-grow: 7;
+	background-color: #E3DFDD;
+}
+
+.right_top_line {
+	margin-top:40px;
+}
+
+
+.right_bottom_line {
+	margin-bottom: 0px;
+	margin-top: 180px;
+}
+
+.cust_login {
+	color: #A1A9A9;
+}
+
+.right_info {
+	display:flex;
+}
+
+.customer_photo_email {
+	flex-grow: 1.2;
+	margin-left: 30px;
+	background-color: white;
+	text-align: center;
+	
+}
+
+.bold_email {
+	padding-top: 20px;
+	font-style: bold;
+	font-size: 20px;
+}
+
+.light_email {
+	margin-bottom: 110px;
+	color: #D6D2D1;
+}
+
+.my_funds {
+	flex-grow: 6;
+	margin-left:30px;
+	margin-right: 30px;
+	background-color: white;
+}
+
+.my_funds h2 {
+	padding-left:15px;
+}
+
+.cust_info_form {
+	padding-top: 20px;
+	padding-left: 30px;
+}
+
+.divdiv {
+	margin-top:85px;
+	margin-bottom: 30px;
+}
+
+.label {
+
+float: right;
+width: 10em;
+margin-right: 3em;
+}
+
+.input {
+	
+float: right;
+width: 10em;
+margin-right: 67px;
+}
+
+.funds_information {
+	background-color: white;
+	padding-left:20px;
+	padding-right:20px;
+}
